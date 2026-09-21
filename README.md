@@ -1,3 +1,1 @@
-# NavGhost
-
-GNSS-denied dead-reckoning navigation project.
+NAVGHOST REPO LINK - https://github.com/DSGAMING98/SIH26168-IDR 
